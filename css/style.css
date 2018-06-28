@@ -12,10 +12,7 @@ body {
     font-family: 'Conv_Bryant Regular', Sans-Serif;
     color: #ffffff;
     background-color: #f7cf70;
-   background-image: url(../images/f2f.gif);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: top center;
+   
 }
 
 .content{
