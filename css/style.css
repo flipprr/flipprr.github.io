@@ -15,7 +15,7 @@ body {
    background-image: url(../images/f2f.gif);
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: top center;
 }
 
 .content{
